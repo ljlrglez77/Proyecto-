@@ -70,20 +70,16 @@
     text-align: center; 
     border: double;
     width: 33%;
-    font-size: small;    
-}
-#group2 {
- background-color: green;
- 
+    font-size: small; 
+       
 }
 
-#showtable h4{  
-    display: block;
+#showtable h4{     
     background-color: black;  
     color: rgb(235, 196, 23);
     text-align: center;
     border: double;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 #showtable input{
